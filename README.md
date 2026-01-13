@@ -16,7 +16,7 @@ Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou c
         <img 
             alt="Instagram Seguidores"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-327%20seguidores-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
 </p>
