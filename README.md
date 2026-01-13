@@ -38,7 +38,7 @@ Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou c
 
 
 ---
-###🤖 Linguagens
+### 🤖 Linguagens
 
 <img 
     align="left" 
