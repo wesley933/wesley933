@@ -1,22 +1,29 @@
 # 👨‍💻 Wesley Leal
 
-**`Estudante de ADS´**
+**Estudante de ADS**
 
 Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, área que escolhi por sempre ter grande interesse em tecnologia e inovação. Desde cedo, a Tecnologia da Informação despertou minha curiosidade, o que me levou a buscar aprendizado constante e desenvolvimento de novas habilidades. Tenho interesse em crescer profissionalmente na área de TI, adquirindo experiência prática, ampliando meus conhecimentos técnicos e acompanhando as evoluções do setor, sempre com foco em aprendizado contínuo e evolução profissional.
 
 <p align="left">
     <a href="https://github.com/wesley933">
         <img 
-            alt="Total de estrelas" 
+           alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/wesley933?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://www.instagram.com/wesley_lealll/">
         <img 
-            title="Me siga no Instagram" 
+            alt="Seguidores" 
+            title="Me sig![Uploading instagram.svg…]()
+a no GitHub" 
+            src=""
         />
     </a>
 </p>
+
+
+
 
 ---
 ###🤖 Linguagens
