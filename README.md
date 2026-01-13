@@ -5,14 +5,14 @@
 Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, área que escolhi por sempre ter grande interesse em tecnologia e inovação. Desde cedo, a Tecnologia da Informação despertou minha curiosidade, o que me levou a buscar aprendizado constante e desenvolvimento de novas habilidades. Tenho interesse em crescer profissionalmente na área de TI, adquirindo experiência prática, ampliando meus conhecimentos técnicos e acompanhando as evoluções do setor, sempre com foco em aprendizado contínuo e evolução profissional.
 
 <p align="left">
-    <a href="www.linkedin.com/in/wesleyvicenteleal">
+    <a href="https://www.linkedin.com/in/wesleyvicenteleal/">
         <img 
             alt="LinkedIn Seguidores"
             title="Conecte-se comigo no LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
-    <a href="www.linkedin.com/in/wesleyvicenteleal">
+    <a href="https://www.linkedin.com/in/wesleyvicenteleal/">
         <img 
             alt="LinkedIn Views"
             title="Visualizações no LinkedIn"
