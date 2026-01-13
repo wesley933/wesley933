@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👨‍💻 Wesley Leal
 
-<!--
-**wesley933/wesley933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de ADS´**
 
-Here are some ideas to get you started:
+Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, área que escolhi por sempre ter grande interesse em tecnologia e inovação. Desde cedo, a Tecnologia da Informação despertou minha curiosidade, o que me levou a buscar aprendizado constante e desenvolvimento de novas habilidades. Tenho interesse em crescer profissionalmente na área de TI, adquirindo experiência prática, ampliando meus conhecimentos técnicos e acompanhando as evoluções do setor, sempre com foco em aprendizado contínuo e evolução profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/wesley933">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+        />
+    </a>
+    <a href="https://www.instagram.com/wesley_lealll/">
+        <img 
+            title="Me siga no Instagram" 
+        />
+    </a>
+</p>
+
+---
+###🤖 Linguagens
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
