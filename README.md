@@ -5,24 +5,43 @@
 Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, área que escolhi por sempre ter grande interesse em tecnologia e inovação. Desde cedo, a Tecnologia da Informação despertou minha curiosidade, o que me levou a buscar aprendizado constante e desenvolvimento de novas habilidades. Tenho interesse em crescer profissionalmente na área de TI, adquirindo experiência prática, ampliando meus conhecimentos técnicos e acompanhando as evoluções do setor, sempre com foco em aprendizado contínuo e evolução profissional.
 
 <p align="left">
-    <a href="https://github.com/wesley933">
+    <a href="www.linkedin.com/in/wesleyvicenteleal">
         <img 
-           alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/wesley933?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn Seguidores"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+        />
+    </a>
+    <a href="www.linkedin.com/in/wesleyvicenteleal">
+        <img 
+            alt="LinkedIn Views"
+            title="Visualizações no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-%2B1k-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32"
         />
     </a>
     <a href="https://www.instagram.com/wesley_lealll/">
         <img 
-            alt="Seguidores" 
-            title="Me sig![Uploading instagram.svg…]()
-a no GitHub" 
-            src=""
+            alt="Instagram Seguidores"
+            title="Siga-me no Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-%2B1k-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
-
-
+    <a href="https://github.com/wesley933?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/wesley933?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/wesley933?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/wesley933?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 
 ---
