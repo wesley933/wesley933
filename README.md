@@ -11,12 +11,11 @@ Meu nome é Wesley Leal, tenho 19 anos e moro em São Paulo. Atualmente, estou c
             title="Conecte-se comigo no LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
-    </a>
-    <a href="https://www.instagram.com/wesley_lealll/">
-        <img 
-            alt="Instagram Seguidores"
+    <a href="https://www.instagram.com/wesleyleal">
+        <img
+            alt="Instagram"
             title="Siga-me no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-327%20seguidores-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-wesleyleal-E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
         />
     </a>
 </p>
